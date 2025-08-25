@@ -9,6 +9,6 @@ switch(username){
         "Hello\"" + username + "\" I Love You  !";
         break;
         default:
-        alert("You Entered a wrong name");
+        alert("You entered a wrong name");
             
 }
