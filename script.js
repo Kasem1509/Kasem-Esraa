@@ -1,4 +1,4 @@
-let username = prompt("Enter Name : \"Kasem or Esraa:");
+let username = prompt("Enter Name : \"Kasem or Esraa: \"");
 switch(username){
     case "Kasem":
         document.getElementById("name").innerHTML =
